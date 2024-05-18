@@ -1,0 +1,45 @@
+{
+    "products": [
+       
+        {
+            "id": "a838",
+            "brand": "Puma",
+            "name": "Mens Shirt",
+            "price": 599,
+            "mrp": 699,
+            "size": "XL",
+            "color": "red",
+            "image": "images/p8.png"
+        },
+        {
+            "id": "b399",
+            "brand": "Adidas",
+            "name": "Mens Shirt",
+            "price": 599,
+            "mrp": 699,
+            "size": "XL",
+            "color": "green",
+            "image": "images/p9.png"
+        },
+        {
+            "id": "b399",
+            "brand": "Adidas",
+            "name": "Mens Shirt",
+            "price": 599,
+            "mrp": 699,
+            "size": "XL",
+            "color": "green",
+            "image": "images/p11.png"
+        },
+        {
+            "id": "aa94",
+            "brand": "Adidas",
+            "name": "Mens Shirt",
+            "price": 599,
+            "mrp": 699,
+            "size": "XL",
+            "color": "Yellow",
+            "image": "images/p10.png"
+        }
+    ]
+}
